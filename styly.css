@@ -1,0 +1,104 @@
+section{
+    height: 100vh;
+}
+h1{
+    font-size: 50px;
+    color: rgb(195, 79, 59)
+}
+.name-highlight{
+    color:rgb(35, 35, 83);
+}
+p{
+    color:dimgray;
+}
+.half-width img{
+    width: 100%;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+body{
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.tripple-width{
+    width: 27%;
+    float: left;
+    margin-left: 4%;
+    padding: 1%;box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+
+}
+.tripple-width img{
+    width: 100%;
+}
+.name-big{
+    color: orangered;
+}
+h3{
+    font-size: 40px;
+    text-align: center;
+    }
+    .idk-at{
+        float: left and right;
+    }
+    h4{
+        font-size: 10px;
+        color:rgb(97, 97, 145);
+    }
+    h5{
+        font-size: 20px;
+        color: rgb(98, 59, 134);
+    }
+    .last-ep{
+        text-align: center;
+    }
+    
+    .top-banner{
+        background-image:url("images/download\ \(2\).jpg");
+        background-repeat:repeat-y;
+    }
+    .my-self{
+        background-image: url("images/download\ \(2\).jpg");
+        background-repeat:repeat-y;
+    }
+
+
+    .blog{
+        height: 168px;
+        width: 675px;
+        background-image: url("images/Group_33094_1.png");
+        background-position: center;
+        background-size: cover;
+        margin-left: 23%;
+        margin-top: 150px;
+    }
+
+    .blog h2{
+        float: left;
+        font-size: 30px;
+        margin-left: 35px;
+        margin-top: 72px;
+    }
+
+    .blog a{
+        float: right;
+        margin-right: 35px;
+        margin-top: 65px;
+    }
+
+    .last-ep{
+     margin: 50px;
+    }
